@@ -16,7 +16,7 @@ EcoSort는 혁신적인 음성인식 기술을 활용하여 효율적인 자동 
 
 > Github 링크 👇
 
-* [Github 클릭](https://www.canva.com/design/DAGB4bD7V8c/_7ljApcovK_1GcbWy087zg/edit?utm_content=DAGB4bD7V8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Github 클릭](https://github.com/CodeMystero/soundRecognitionRecycleBin)
 
 ## 프로젝트 요약
 * Members
