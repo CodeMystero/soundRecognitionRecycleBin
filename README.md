@@ -2,62 +2,62 @@
 
 >Sound recognition-based rubbish sorting system for recycling
 
-EcoSort는 혁신적인 음성인식 기술을 활용하여 효율적인 자동 쓰레기 분류 시스템을 개발하는 프로젝트입니다. 이 시스템은 쓰레기를 던져서 쓰레기통 윗부분에 부딪혀 만드는 소리를 인식하여 해당 쓰레기가 플라스틱, 철, 종이 중 어느 것인지 식별하고 분류하는 기능을 제공합니다.
+EcoSort is an innovative project that utilizes advanced sound recognition technology to develop an efficient automatic waste sorting system. This system identifies and categorizes waste into plastic, metal, or paper by recognizing the sounds produced when trash is thrown and hits the top of the bin.
 
-이 프로젝트는 환경 보호를 위한 혁신적인 기술의 결합을 통해 쓰레기 처리의 효율성과 편의성을 증대시킵니다. 쓰레기 분류는 많은 사람들이 소홀히 하는 문제 중 하나입니다. 따라서 EcoSort는 이러한 문제를 해결하고자 음성인식 기술을 활용하여 쓰레기를 자동으로 분류함으로써 환경 보호 의식을 높이고 쓰레기 처리 과정을 최적화하는 것을 목표로 합니다.
+By combining cutting-edge technology for environmental protection, this project enhances the efficiency and convenience of waste management. Waste sorting is often neglected by many, so EcoSort aims to address this issue by using sound recognition technology to automatically sort waste. This not only raises environmental awareness but also optimizes the waste disposal process.
 
->시연영상 링크 👇
+> Demonstration Video Link 👇
 
-* [시연영상 클릭](https://youtube.com/shorts/WwXuutiFc3Y?si=UxoZxxDrEbfMhST1)
+* [Demonstration Video click](https://youtube.com/shorts/WwXuutiFc3Y?si=UxoZxxDrEbfMhST1)
 
-> 발표자료 링크 👇
+> Presentation Link 👇
 
-* [발표자료 ppt 클릭](https://www.canva.com/design/DAGB4bD7V8c/_7ljApcovK_1GcbWy087zg/edit?utm_content=DAGB4bD7V8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Presentation ppt click](https://www.canva.com/design/DAGB4bD7V8c/_7ljApcovK_1GcbWy087zg/edit?utm_content=DAGB4bD7V8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 > Github 링크 👇
 
-* [Github 클릭](https://github.com/CodeMystero/soundRecognitionRecycleBin)
+* [Github click](https://github.com/CodeMystero/soundRecognitionRecycleBin)
 
-## 프로젝트 요약
+## Project Summary
 * Members
   | Name | Role |
   |----|----|
-  | 김승환 | Project lead, 프로젝트를 총괄 |
-  | 송인태 | Embedded system , 기구및 제어 시스템을 제작하고, 펌웨어를 코딩한다. |
-  | 김용철 | AI modeling, 재활용 소재에 대한 음성 인식 AI를 모델링 한다. |
-  | 김준영 | AI modeling, 기구및 제어 시스템 제작. |
+  | Seunghwan Kim | Project lead |
+  | Intae Song | Embedded system |
+  | Yongcheol Kim | AI modeling |
+  | Junyoung Kim | AI modeling |
   
 
 
-## 프로젝트 마일스톤 - Gantt Chart
+## Project Milestone- Gantt Chart
 
 ```mermaid
 gantt
     dateFormat  MM-DD-YYYY
     
 	
-	section 기구 & 펌웨어
-                기구 재료 확보 :2024-04-07, 3d
-                기구 제작  : 2024-04-09, 2d
-                펌웨어 구현 : 2024-04-11, 5d
-    
+section Machine & Firmware
+                Material Procurement: 2024-04-07, 3d
+                Machine Fabrication: 2024-04-09, 2d
+                Firmware Implementation: 2024-04-11, 5d
 
-	section 디자인 설계
-                디자인 관련 자료조사 :2024-04-07, 2d
-                디자인 확정 :2024-04-09, 1d
+section Design Planning
+                Design Research: 2024-04-07, 2d
+                Finalize Design: 2024-04-09, 1d
 
-section Intergration & Test
-		Intergration: 2024-04-16, 3d
-		Test: 2024-04-17,3d
+section Integration & Test
+                Integration: 2024-04-16, 3d
+                Test: 2024-04-17, 3d
 
 section Documentation & Presentation
-                최종 보고서 정리 : 2024-04-20, 2d
-                발표 : crit, 2024-04-22,1d
+                Final Report Preparation: 2024-04-20, 2d
+                Presentation: crit, 2024-04-22, 1d
 
-  section 음성인식 AI 구현
-                모델설정 : 2024-04-09, 2d
-                Data Collection : 2024-04-11, 2d
-                Modelling : 2024-04-13, 3d
+section Speech Recognition AI Implementation
+                Model Setup: 2024-04-09, 2d
+                Data Collection: 2024-04-11, 2d
+                Modelling: 2024-04-13, 3d
+
 	         
 
 
